@@ -1,4 +1,4 @@
-# AngularTourOfHeroes
+# Angular Tour Of Heroes Project
 
 Tutorial project that covers the basic features of Angular
 
